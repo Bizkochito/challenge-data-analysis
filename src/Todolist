@@ -1,6 +1,6 @@
 Grégoire : want to find missing data, summary of missing data, depeding on the columns
-Melih : change csv file 1) remove "https://www.immoweb.be/en/classified/new-real-estate-project*"
-Marco : data cleaning, df.dropna(), df.fillna("None")
+Melih : 
+Marco : data cleaning,
 Polo : working with little bro
 
 
