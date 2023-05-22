@@ -8,4 +8,4 @@ good_csv = old_csv[old_csv["url"].str.contains("new-real-estate-project")==False
 
 new_columns = good_csv[columns]
 
-purified_csv = new_columns.to_csv('.\\assets\\new_csv.csv')
+purified_csv = new_columns.to_csv('.\\assets\\new.csv')
