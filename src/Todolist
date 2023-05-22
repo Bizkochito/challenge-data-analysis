@@ -3,6 +3,7 @@ Melih : change csv file 1) remove "https://www.immoweb.be/en/classified/new-real
 Marco : data cleaning, df.dropna(), df.fillna("None")
 Polo : working with little bro
 
+
 keep first csv, make copies of it
 
 
@@ -25,4 +26,3 @@ keep first csv, make copies of it
     Number of facades
     Swimming pool (Yes/No)
     State of the building (New, to be renovated, ...)
-
