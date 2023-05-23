@@ -1,8 +1,6 @@
 import re
 import pandas as pd
 
-df = pd.read_csv('assets/immoweb_test.csv')
-
 def extract_from_url(url):
     list_url = url.split("/")
     building_type = list_url[5]
@@ -31,5 +29,6 @@ def split_url_info(df):
 
 
 if __name__== "__main__":
+    df = pd.read_csv('assets/immoweb_properties_data.csv')
     df = split_url_info(df)
     print(df.head())
