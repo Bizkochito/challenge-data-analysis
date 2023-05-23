@@ -8,8 +8,8 @@ def extract_from_url(url):
     building_type = list_url[5]
     municipality=list_url[7]
     zipcode= int(list_url[8])
-    id = int(list_url[9])
-    return [building_type, municipality, zipcode, id]
+    immoweb_id = int(list_url[9])
+    return [building_type, municipality, zipcode, immoweb_id]
 
 def get_id(url):
     return extract_from_url(url)[3]
