@@ -37,14 +37,15 @@ columns = [
     "Monthly charges",
 ]
 
-old_csv = pd.read_csv(".\\assets\immoweb_properties_data.csv")
+base_csv = pd.read_csv(".\\assets\immoweb_properties_data.csv")
 
-good_csv = old_csv[old_csv["url"].str.contains("new-real-estate-project") == False]
+df = base_csv[base_csv["url"].str.contains("new-real-estate-project") == False]
+df = split_url_info(df)
 
-new_columns = good_csv[columns]
+new_columns = df[columns]
 
+
+"""
 purified_csv = new_columns.to_csv(".\\assets\\new.csv")
-
-new_columns.dropna()
-new_columns.fillna("None")
 new_columns.loc["Basement":"Monthly charges"]
+"""
