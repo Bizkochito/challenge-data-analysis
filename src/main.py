@@ -1,5 +1,7 @@
 import pandas as pd
 import re
+from utils.cleaning_gregoire import split_url_info
+
 
 columns = [
     "Construction year",
