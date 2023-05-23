@@ -1,17 +1,15 @@
 import pandas as pd
 import re
 from utils.cleaning_gregoire import split_url_info
-
+from utils.paul import clean_df
 
 columns = [
-    "Construction year",
     "Building condition",
     "Number of frontages",
     "Surroundings type",
     "Living area",
     "Living room surface",
     "Kitchen type",
-    "Kitchen surface",
     "Bedrooms",
     "Bathrooms",
     "Shower rooms",
@@ -20,33 +18,56 @@ columns = [
     "Furnished",
     "Terrace",
     "Elevator",
-    "Accessible for disabled people",
     "Swimming pool",
     "Energy class",
     "Heating type",
-    "Double glazing",
     "Price",
-    "Address",
-    "Covered parking spaces",
     "Flood zone type",
-    "Neighbourhood or locality",
-    "Outdoor parking spaces",
-    "Garden surface",
-    "Terrace surface",
     "Garden",
-    "Monthly charges",
+    "zipcode",
+    "building_type",
+    "building_subtype",
+    "municipality"
 ]
 
+df = pd.read_csv("../assets/immoweb_properties_data.csv")
 
+df = df[df["url"].str.contains("new-real-estate-project") == False]
+df = split_url_info(df)
+df = clean_df(df)
+df = df[columns]
+renaming_dict = {"Construction year": 'year_const',
+    "Building condition" : 'status_build',
+    "Number of frontages" : 'frontages',
+    "Surroundings type" : 'surroundings',
+    "Living area" : 'living_area',
+    "Living room surface" : 'liv_room_surf',
+    "Kitchen type" : 'kitchen_type',
+    "Kitchen surface" :'kitchen_surf', 
+    "Bedrooms" : 'bedrooms',
+    "Bathrooms" : 'bathrooms',
+    "Shower rooms" : 'showers',
+    "Toilets": 'toilets',
+    "Basement": 'basement',
+    "Furnished": 'furnished',
+    "Terrace": 'terrace',
+    "Elevator": 'elevator',
+    "Accessible for disabled people": 'disabled_access',
+    "Swimming pool": 'swimming_pool',
+    "Energy class": 'energy_class',
+    "Heating type": 'heating',
+    "Double glazing": 'double_glazing',
+    "Price": 'price',
+    "Address": 'address',
+    "Covered parking spaces": 'covered_parking',
+    "Flood zone type": 'flood_zone',
+    "Neighbourhood or locality": 'locality',
+    "Outdoor parking spaces": 'outdoor_parking',
+    "Garden surface": 'garden_surf',
+    "Terrace surface": 'terrace_surf',
+    "Garden": 'garden',
+    "Monthly charges": 'monthly_charges'}
+df.rename(columns=renaming_dict, inplace=True)
+df.reindex([])
 
-old_csv = pd.read_csv(".\\assets\immoweb_properties_data.csv")
-
-good_csv = old_csv[old_csv["url"].str.contains("new-real-estate-project") == False]
-
-new_columns = good_csv[columns]
-
-purified_csv = new_columns.to_csv(".\\assets\\new.csv")
-
-new_columns.dropna()
-new_columns.fillna("None")
-new_columns.loc["Basement":"Monthly charges"]
+df.to_csv('../assets/cleaned_data.csv')

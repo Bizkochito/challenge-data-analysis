@@ -1,5 +1,6 @@
 import re
 import pandas as pd
+import urllib.parse
 
 def extract_from_url(url):
     list_url = url.split("/")
@@ -14,7 +15,7 @@ def get_id(url):
 def get_type(url):
     return extract_from_url(url)[0]
 def get_municipality(url):
-    return extract_from_url(url)[1]
+    return urllib.parse.unquote(extract_from_url(url)[1]).lower()
 def get_zipcode(url):
     return extract_from_url(url)[2]
 
