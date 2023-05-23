@@ -1,27 +1,24 @@
-,0,,
-Building condition,1054,"11,28 %",
-Number of frontages,1678,"17,96 %",
-Surroundings type,5330,"57,05 %",
-Living area,132,"1,41 %",dropna()
-Living room surface,3616,"38,71 %",
-Kitchen type,1039,"11,12 %",
-Bedrooms,152,"1,63 %",dropna()
-Bathrooms,1204,"12,89 %",
-Shower rooms,6197,"66,33 %",
-Toilets,831,"8,90 %",
-Basement,4848,"51,89 %",
-Furnished,4288,"45,90 %",
-Terrace,7299,"78,13 %",
-Elevator,4203,"44,99 %",
-Swimming pool,5377,"57,56 %",
-Energy class,0,"0,00 %",
-Heating type,1261,"13,50 %",
-Price,37,"0,40 %",dropna()
-Address,370,"3,96 %",is zip code
-Flood zone type,4240,"45,39 %",
-Neighbourhood or locality,7173,"76,78 %",
-Outdoor parking spaces,5771,"61,77 %",
-Garden surface,6785,"72,63 %",
-Terrace surface,4524,"48,43 %",
-Garden,8160,"87,35 %",to merge with garden
-Monthly charges,8720,"93,34 %",Remove
+,0
+Building condition,1054
+Number of frontages,1678
+Surroundings type,5330
+Living area,132
+Living room surface,3616
+Kitchen type,1039
+Bedrooms,152
+Bathrooms,1204
+Shower rooms,6197
+Toilets,831
+Basement,4848
+Furnished,4288
+Terrace,7299
+Elevator,4203
+Swimming pool,5377
+Energy class,0
+Heating type,1261
+Price,37
+Address,370
+Flood zone type,4240
+Garden surface,6785
+Terrace surface,4524
+Garden,8160
