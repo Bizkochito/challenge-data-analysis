@@ -81,12 +81,20 @@ def clean_df(abcd):
         'USA installed':1, 
         'Not installed':0, 
         'USA semi equipped':2, 
-        'USA uninstalled':0
+        'USA uninstalled':0,
+        'A' : 7,
+        'B' : 6,
+        'C' : 5,
+        'D' : 4,
+        'E' : 3,
+        'F' : 2,
+        'G' : 1
     }
     abcd.replace({'Kitchen type' : ranking_dict}, inplace=True)
     abcd.replace({"Building condition" : ranking_dict}, inplace=True)
-    
+    abcd.replace({'Energy class' : ranking_dict}, inplace=True)
     return abcd
+
 
 
 
