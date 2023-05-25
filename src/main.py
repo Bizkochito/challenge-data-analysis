@@ -27,7 +27,8 @@ columns = [
     "zipcode",
     "building_type",
     "building_subtype",
-    "municipality"
+    "municipality",
+    'province'
 ]
 
 df = pd.read_csv("assets/immoweb_properties_data.csv")
@@ -92,6 +93,10 @@ df = df[[
     'flood_zone', 
     'surroundings',
     'zipcode', 
-    'municipality' ]]
+    'municipality', 
+    'province' ]]
+
+
+
 
 df.to_csv('assets/cleaned_data.csv')
