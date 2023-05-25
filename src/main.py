@@ -67,32 +67,31 @@ renaming_dict = {"Construction year": 'year_const',
     "Garden": 'garden',
     "Monthly charges": 'monthly_charges'}
 df.rename(columns=renaming_dict, inplace=True)
-"""
-df = df[[[
-    'id', 
-    'status_build', 
+
+df = df[[     
+    'building_type', 
+    'building_subtype',
+    'price',
+    'living_area',
     'frontages', 
-    'surroundings', 
-    'living_area', 
-    'liv_room_surf', 
-    'kitchen_type', 
     'bedrooms', 
-    'bathrooms', 
+    'bathrooms',
+    'liv_room_surf', 
+    'kitchen_type',  
     'showers', 
     'toilets', 
     'basement', 
-    'furnished', 
-    'terrace', 
+    'terrace',
+    'garden', 
     'elevator', 
-    'swimming_pool', 
+    'swimming_pool',
+    'status_build',
+    'furnished',
     'energy_class', 
     'heating', 
-    'price', 
     'flood_zone', 
-    'garden', 
+    'surroundings',
     'zipcode', 
-    'building_type', 
-    'building_subtype', 
-    'municipality'     ]]]
-"""
+    'municipality' ]]
+
 df.to_csv('assets/cleaned_data.csv')
