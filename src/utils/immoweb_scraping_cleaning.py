@@ -95,6 +95,9 @@ def clean_df(abcd):
     abcd.replace({'Energy class' : ranking_dict}, inplace=True)
     return abcd
 
+def province(zip):
+    if 
+
 
 
 
