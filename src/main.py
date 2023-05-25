@@ -1,7 +1,7 @@
 import pandas as pd
 import re
-from utils.cleaning_gregoire import split_url_info
-from utils.paul import clean_df
+from utils.immoweb_scraping_cleaning import split_url_info
+from utils.immoweb_scraping_cleaning import clean_df
 
 columns = [
     "Building condition",
@@ -30,8 +30,7 @@ columns = [
     "municipality"
 ]
 
-df = pd.read_csv("../assets/immoweb_properties_data.csv")
-
+df = pd.read_csv("assets/immoweb_properties_data.csv")
 df = df[df["url"].str.contains("new-real-estate-project") == False]
 df = split_url_info(df)
 df = clean_df(df)
@@ -68,6 +67,5 @@ renaming_dict = {"Construction year": 'year_const',
     "Garden": 'garden',
     "Monthly charges": 'monthly_charges'}
 df.rename(columns=renaming_dict, inplace=True)
-df.reindex([])
 
-df.to_csv('../assets/cleaned_data.csv')
+df.to_csv('assets/cleaned_data.csv')
