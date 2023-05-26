@@ -60,6 +60,32 @@ def clean_liv_area(abcd):
     abcd["Living area"] = abcd["Living area"].str.extract(r"([0-9]{1,5})").astype(float)
     return abcd
 
+def discriminate_province(zipcode):
+    short_zip= zipcode/100
+    if short_zip<13:
+        return 'Brussels Capital Region'
+    if short_zip<15:
+        return 'Walloon Brabant'
+    if short_zip<20 or 29<short_zip<35 :
+        return 'Flemish Brabant'
+    if short_zip<30:
+        return 'Antwerp'
+    if short_zip<40:
+        return 'Limburg'
+    if short_zip<50:
+        return 'Liège'
+    if short_zip<60:
+        return 'Namur'
+    if short_zip<66 or 69<short_zip<80:
+        return 'Hainaut'
+    if short_zip<70:
+        return 'Luxembourg'
+    if short_zip<90:
+        return 'West Flanders'
+    else:
+        return 'East Flanders'
+
+
 def clean_df(abcd):
     abcd = fuses_terrace(fuses_garden(clean_price(clean_liv_area(clean_liv_room_surf(abcd)))))
     abcd = abcd.fillna("None")
@@ -88,16 +114,25 @@ def clean_df(abcd):
         'D' : 4,
         'E' : 3,
         'F' : 2,
-        'G' : 1
+        'G' : 1,
+        'Not specified':1, 
+        'A+': 7.25, 
+        'A++': 7.5
     }
     abcd.replace({'Kitchen type' : ranking_dict}, inplace=True)
     abcd.replace({"Building condition" : ranking_dict}, inplace=True)
     abcd.replace({'Energy class' : ranking_dict}, inplace=True)
+
+    zip_codes = pd.read_csv('assets/zipcode-belgium.csv')
+    codes_dict = dict(zip(zip_codes['postcode'], zip_codes['municipality']))
+
+    abcd['group_zipcode'] =abcd['zipcode'].apply(lambda x: x - x%10)
+
+    abcd['municipality'] = abcd['group_zipcode']
+    abcd.replace({'municipality' : codes_dict}, inplace=True)
+    abcd['province'] = abcd['zipcode'].apply(discriminate_province)
+
     return abcd
-
-def province(zip):
-    if 
-
 
 
 
