@@ -293,7 +293,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10542851,apartment,triplex,675000.0,175.0,2.0,3.0,2.0,60.0,3,None,2.0,1,13.0,0.0,None,None,3,None,5.0,Gas,Non flood zone,None,1210,Saint-Josse-Ten-Noode,Brussels Capital Region
 10564611,apartment,apartment,285000.0,95.0,2.0,2.0,1.0,33.0,None,None,1.0,1,5.0,0.0,1,None,3,None,6.0,Gas,None,None,2660,Hoboken,Antwerp
 10552277,house,house,278000.0,275.0,3.0,4.0,2.0,None,1,None,2.0,None,0.0,0.0,None,None,1,0,1.0,Fuel oil,None,Countryside,4190,Xhoris,Liège
-10555336,other-property,exceptional-property,1765000.0,603.0,4.0,8.0,5.0,54.0,3,5.0,4.0,1,60.0,2140.0,0,1,3,0,6.0,None,Non flood zone,Countryside,1380,Plancenoit,Walloon Brabant
+10555336,other-property,exceptional-property,1765000.0,603.0,4.0,8.0,5.0,54.0,3,5.0,4.0,1,60.0,2140.0,0,1,3,0,6.0,None,Non flood zone,Countryside,1380,Lasne,Walloon Brabant
 10552998,apartment,apartment,259000.0,89.0,4.0,2.0,1.0,34.0,1,None,1.0,None,10.0,0.0,1,None,None,None,7.0,Gas,Non flood zone,"Living area (residential, urban or rural)",7060,Soignies,Hainaut
 10566808,apartment,duplex,230000.0,99.0,None,2.0,1.0,None,2,None,2.0,None,0.0,0.0,None,None,2,None,5.0,Fuel oil,None,None,6730,Tintigny,Luxembourg
 10552322,apartment,apartment,795000.0,101.0,2.0,2.0,2.0,None,3,2.0,2.0,None,0.0,0.0,1,0,2,0,6.0,Gas,Non flood zone,Urban,8300,Knokke,West Flanders
@@ -753,7 +753,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10349039,apartment,apartment,449000.0,140.0,4.0,2.0,1.0,45.0,3,2.0,2.0,1,25.0,0.0,1,0,0,0,1.0,Electric,None,Countryside,1180,Uccle,Brussels Capital Region
 10526989,apartment,apartment,450000.0,127.0,3.0,3.0,1.0,24.0,1,1.0,2.0,None,14.0,0.0,1,None,2,None,3.0,Gas,None,None,1150,Woluwe-Saint-Pierre,Brussels Capital Region
 10227923,apartment,apartment,450000.0,123.0,2.0,3.0,1.0,35.0,1,1.0,2.0,1,20.0,0.0,1,0,2,0,5.0,Gas,None,Countryside,1200,Woluwe-Saint-Lambert,Brussels Capital Region
-10523134,house,villa,450000.0,125.0,4.0,2.0,1.0,33.0,2,1.0,2.0,1,90.0,572.0,0,0,0,0,1.0,Fuel oil,Non flood zone,Isolated,1380,Plancenoit,Walloon Brabant
+10523134,house,villa,450000.0,125.0,4.0,2.0,1.0,33.0,2,1.0,2.0,1,90.0,572.0,0,0,0,0,1.0,Fuel oil,Non flood zone,Isolated,1380,Lasne,Walloon Brabant
 10537965,house,town-house,450000.0,225.0,2.0,3.0,1.0,40.0,3,None,3.0,None,50.0,180.0,0,0,3,None,6.0,Gas,Possible flood zone,"Living area (residential, urban or rural)",1785,Wemmel,Flemish Brabant
 10499515,house,house,450000.0,144.0,4.0,4.0,2.0,32.0,2,1.0,2.0,1,64.0,215.0,0,0,2,0,2.0,Electric,None,"Living area (residential, urban or rural)",1440,Wauthier-Braine,Walloon Brabant
 10469943,apartment,apartment,450000.0,115.0,2.0,4.0,2.0,None,1,None,2.0,1,21.0,0.0,1,None,2,None,6.0,Gas,None,None,9000,Gent,East Flanders
@@ -860,7 +860,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 9204594,apartment,apartment,1195000.0,181.0,2.0,4.0,2.0,45.0,3,None,3.0,None,5.0,0.0,1,None,3,None,4.0,Gas,None,"Living area (residential, urban or rural)",1050,Ixelles,Brussels Capital Region
 10198989,house,villa,1250000.0,420.0,4.0,5.0,4.0,63.0,3,4.0,5.0,1,80.0,4300.0,0,0,3,0,4.0,Fuel oil,None,"Living area (residential, urban or rural)",1420,Braine-L'alleud,Walloon Brabant
 10465113,other-property,exceptional-property,1250000.0,500.0,4.0,7.0,1.0,None,3,4.0,7.0,None,60.0,0.0,0,1,2,None,6.0,Gas,Non flood zone,Countryside,6660,Nadrin,Luxembourg
-10194449,house,villa,1350000.0,300.0,4.0,6.0,2.0,53.0,0,1.0,1.0,None,0.0,0.0,0,0,1,0,1.0,Fuel oil,None,Isolated,1380,Plancenoit,Walloon Brabant
+10194449,house,villa,1350000.0,300.0,4.0,6.0,2.0,53.0,0,1.0,1.0,None,0.0,0.0,0,0,1,0,1.0,Fuel oil,None,Isolated,1380,Lasne,Walloon Brabant
 10395312,house,villa,1350000.0,535.0,4.0,5.0,2.0,42.0,3,None,3.0,1,150.0,12000.0,None,1,3,None,5.0,Fuel oil,Non flood zone,Countryside,3210,Lubbeek,Flemish Brabant
 10319093,apartment,apartment,1250000.0,110.0,2.0,3.0,2.0,34.0,1,2.0,2.0,1,12.0,0.0,1,0,2,0,6.0,Fuel oil,None,None,8300,Knokke,West Flanders
 10493036,house,house,1350000.0,182.0,2.0,5.0,2.0,None,3,2.0,3.0,None,0.0,0.0,None,None,2,0,6.0,Gas,Non flood zone,Urban,8300,Knokke,West Flanders
@@ -2037,7 +2037,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10550590,house,house,109000.0,110.0,3.0,2.0,1.0,14.0,2,1.0,2.0,None,15.0,125.0,None,None,1,0,1.0,Gas,None,Urban,4051,Chaudfontaine,Liège
 10087090,house,house,289000.0,114.0,3.0,3.0,1.0,30.0,1,1.0,2.0,None,25.0,274.0,None,None,None,None,6.0,Gas,Non flood zone,None,6530,Thuin,Hainaut
 10551659,house,house,199500.0,120.0,4.0,2.0,1.0,28.0,0,None,1.0,None,0.0,895.0,None,None,1,None,2.0,Fuel oil,None,None,4570,Vyle-Et-Tharoul,Liège
-10492362,house,mansion,695000.0,340.0,4.0,5.0,2.0,None,3,None,None,1,0.0,0.0,None,None,1,0,2.0,Fuel oil,None,"Living area (residential, urban or rural)",7850,Petit-Enghien,Hainaut
+10492362,house,mansion,695000.0,340.0,4.0,5.0,2.0,None,3,None,None,1,0.0,0.0,None,None,1,0,2.0,Fuel oil,None,"Living area (residential, urban or rural)",7850,Enghien,Hainaut
 10531257,house,house,699000.0,250.0,3.0,4.0,3.0,None,3,None,3.0,1,50.0,225.0,0,0,3,0,5.0,Fuel oil,None,Isolated,1932,Zaventem,Flemish Brabant
 10086163,house,house,749500.0,419.0,4.0,5.0,3.0,None,3,None,3.0,None,0.0,0.0,0,0,3,0,6.0,Gas,Non flood zone,Isolated,1850,Grimbergen,Flemish Brabant
 10379728,other-property,mixed-use-building,750000.0,286.0,2.0,4.0,4.0,None,3,4.0,4.0,None,20.0,55.0,0,0,2,0,1.0,Gas,None,Urban,1180,Uccle,Brussels Capital Region
@@ -2248,7 +2248,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10555058,apartment,apartment,234970.0,77.0,3.0,1.0,1.0,None,None,None,1.0,None,15.0,0.0,1,None,3,None,1.0,Gas,Non flood zone,Urban,2230,Ramsel,Antwerp
 10556762,apartment,apartment,420000.0,134.0,None,3.0,2.0,44.0,None,None,1.0,None,16.0,0.0,1,0,3,0,1.0,None,Non flood zone,None,9230,Wetteren,East Flanders
 10556763,apartment,apartment,340000.0,105.0,None,2.0,1.0,35.0,1,None,1.0,None,13.0,0.0,1,0,3,0,1.0,None,Non flood zone,None,9230,Wetteren,East Flanders
-10552232,house,house,625000.0,398.0,4.0,7.0,3.0,55.0,1,None,3.0,None,40.0,5800.0,None,None,2,None,5.0,Fuel oil,None,None,7850,Petit-Enghien,Hainaut
+10552232,house,house,625000.0,398.0,4.0,7.0,3.0,55.0,1,None,3.0,None,40.0,5800.0,None,None,2,None,5.0,Fuel oil,None,None,7850,Enghien,Hainaut
 10554727,apartment,apartment,485000.0,107.0,None,2.0,2.0,34.0,3,None,2.0,1,17.0,0.0,1,0,3,0,1.0,Gas,Possible flood zone,"Living area (residential, urban or rural)",1180,Uccle,Brussels Capital Region
 10556757,apartment,apartment,410000.0,115.0,None,3.0,1.0,47.0,1,None,1.0,None,12.0,0.0,1,0,3,0,1.0,None,Non flood zone,None,9230,Wetteren,East Flanders
 10556756,apartment,apartment,415000.0,89.0,4.0,2.0,1.0,23.0,3,None,1.0,None,27.0,0.0,1,0,None,0,1.0,Gas,Non flood zone,"Living area (residential, urban or rural)",9051,Ledeberg,East Flanders
@@ -2369,7 +2369,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10498450,house,house,340000.0,180.0,3.0,3.0,2.0,44.0,0,None,2.0,1,0.0,400.0,None,None,1,0,2.0,None,Non flood zone,Isolated,1640,Rhode-Saint-Genèse,Flemish Brabant
 10072852,house,house,365000.0,145.0,3.0,4.0,2.0,43.0,1,None,3.0,1,35.0,0.0,None,None,2,None,7.0,None,None,None,1490,Court-Saint-Etienne,Walloon Brabant
 10474736,house,house,369000.0,326.0,2.0,4.0,1.0,None,1,1.0,2.0,None,0.0,0.0,None,None,2,None,5.0,Fuel oil,None,None,1502,Halle,Flemish Brabant
-10203477,house,house,370000.0,160.0,4.0,4.0,1.0,35.0,1,None,2.0,None,0.0,0.0,None,None,3,0,3.0,Electric,None,"Living area (residential, urban or rural)",7830,Thoricourt,Hainaut
+10203477,house,house,370000.0,160.0,4.0,4.0,1.0,35.0,1,None,2.0,None,0.0,0.0,None,None,3,0,3.0,Electric,None,"Living area (residential, urban or rural)",7830,Silly,Hainaut
 10526305,house,town-house,359000.0,250.0,2.0,3.0,1.0,45.0,3,None,3.0,None,30.0,260.0,0,0,3,None,6.0,Gas,Non flood zone,Urban,9340,Wanzele,East Flanders
 10341869,house,house,374000.0,145.0,4.0,3.0,1.0,None,1,None,1.0,1,24.0,0.0,None,None,None,None,5.0,Gas,Non flood zone,None,2220,Heist-Op-Den-Berg,Antwerp
 10486406,house,mansion,408000.0,236.0,2.0,3.0,1.0,30.0,1,None,2.0,1,18.0,23.0,0,0,3,0,6.0,Gas,Non flood zone,Urban,3300,Vissenaken,Flemish Brabant
@@ -2439,7 +2439,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10530964,other-property,mixed-use-building,595000.0,238.0,3.0,3.0,2.0,None,3,2.0,3.0,1,20.0,0.0,0,0,2,0,3.0,Gas,None,"Living area (residential, urban or rural)",1190,Forest,Brussels Capital Region
 10488260,other-property,mixed-use-building,595000.0,170.0,2.0,2.0,1.0,20.0,None,1.0,1.0,1,2.0,20.0,0,None,2,0,1.0,None,None,None,1180,Uccle,Brussels Capital Region
 10526382,house,house,595000.0,170.0,2.0,5.0,3.0,None,None,1.0,4.0,1,0.0,50.0,None,None,1,0,1.0,None,Non flood zone,Urban,1050,Ixelles,Brussels Capital Region
-10415799,house,country-cottage,605000.0,300.0,4.0,4.0,2.0,None,2,1.0,4.0,1,0.0,0.0,None,None,0,0,4.0,Fuel oil,None,Countryside,7830,Thoricourt,Hainaut
+10415799,house,country-cottage,605000.0,300.0,4.0,4.0,2.0,None,2,1.0,4.0,1,0.0,0.0,None,None,0,0,4.0,Fuel oil,None,Countryside,7830,Silly,Hainaut
 8373923,house,house,599000.0,336.0,2.0,4.0,3.0,48.0,1,None,3.0,None,0.0,0.0,None,None,2,None,5.0,Gas,Non flood zone,None,9200,Sint-Gillis-Dendermonde,East Flanders
 10530551,house,town-house,597000.0,230.0,3.0,3.0,1.0,65.0,3,1.0,2.0,None,42.0,375.0,0,1,3,None,7.0,None,Non flood zone,Countryside,3052,Oud-Heverlee,Flemish Brabant
 10264028,house,mansion,595000.0,None,2.0,4.0,1.0,30.0,1,None,2.0,None,0.0,0.0,1,0,2,0,4.0,Gas,Non flood zone,Urban,2800,Walem,Antwerp
@@ -2493,7 +2493,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10491388,house,house,1350000.0,180.0,2.0,5.0,2.0,39.0,3,2.0,3.0,None,0.0,0.0,0,0,2,0,6.0,Gas,Non flood zone,None,8300,Knokke,West Flanders
 10521331,house,house,1590000.0,350.0,2.0,5.0,2.0,40.0,3,None,3.0,1,20.0,0.0,None,None,3,0,3.0,Gas,None,"Living area (residential, urban or rural)",1180,Uccle,Brussels Capital Region
 10527419,house,house,880000.0,447.0,4.0,5.0,1.0,None,1,2.0,2.0,1,0.0,0.0,None,None,0,None,5.0,Fuel oil,Non flood zone,None,2570,Duffel,Antwerp
-10428958,house,villa,890000.0,220.0,4.0,3.0,1.0,50.0,3,1.0,3.0,1,55.0,0.0,None,None,3,None,6.0,Fuel oil,None,None,1380,Plancenoit,Walloon Brabant
+10428958,house,villa,890000.0,220.0,4.0,3.0,1.0,50.0,3,1.0,3.0,1,55.0,0.0,None,None,3,None,6.0,Fuel oil,None,None,1380,Lasne,Walloon Brabant
 10537763,house,house,1290000.0,288.0,2.0,5.0,4.0,40.0,2,4.0,4.0,1,8.0,30.0,0,0,2,0,2.0,Gas,None,"Living area (residential, urban or rural)",1050,Ixelles,Brussels Capital Region
 10520424,house,mansion,1995000.0,550.0,4.0,8.0,7.0,None,1,None,10.0,None,0.0,0.0,None,None,2,None,4.0,None,None,None,9600,Renaix,East Flanders
 10487588,house,manor-house,1085000.0,600.0,4.0,5.0,None,None,2,None,4.0,1,0.0,0.0,None,None,1,None,4.0,Fuel oil,Non flood zone,None,8790,Waregem,West Flanders
@@ -3469,7 +3469,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10477413,apartment,apartment,285000.0,100.0,2.0,2.0,1.0,None,1,None,1.0,None,7.0,0.0,1,0,2,None,1.0,Gas,Non flood zone,"Living area (residential, urban or rural)",3070,Kortenberg,Flemish Brabant
 10443985,apartment,apartment,280000.0,64.0,2.0,1.0,1.0,None,1,None,1.0,1,0.0,0.0,1,None,2,1,7.0,Gas,None,None,8430,Middelkerke,West Flanders
 10485024,apartment,apartment,295000.0,91.0,None,2.0,1.0,None,None,None,2.0,None,18.0,0.0,1,0,3,None,4.0,Gas,Non flood zone,"Living area (residential, urban or rural)",1180,Uccle,Brussels Capital Region
-10557696,house,house,480000.0,180.0,4.0,3.0,1.0,36.0,1,1.0,2.0,1,0.0,1300.0,None,None,None,0,4.0,Fuel oil,Non flood zone,Isolated,1380,Plancenoit,Walloon Brabant
+10557696,house,house,480000.0,180.0,4.0,3.0,1.0,36.0,1,1.0,2.0,1,0.0,1300.0,None,None,None,0,4.0,Fuel oil,Non flood zone,Isolated,1380,Lasne,Walloon Brabant
 10559593,house,house,419000.0,213.0,4.0,3.0,1.0,None,1,None,2.0,None,0.0,0.0,None,None,2,0,5.0,Gas,None,Urban,8020,Waardamme,West Flanders
 10489911,apartment,duplex,295000.0,115.0,3.0,2.0,1.0,22.0,0,None,1.0,1,0.0,0.0,None,None,0,None,1.0,Gas,Non flood zone,Urban,1030,Schaerbeek,Brussels Capital Region
 10558750,house,house,498000.0,201.0,4.0,3.0,1.0,22.0,1,None,2.0,1,15.0,0.0,0,0,3,0,4.0,Gas,None,"Living area (residential, urban or rural)",1170,Watermael-Boitsfort,Brussels Capital Region
@@ -3671,7 +3671,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10501872,house,house,274000.0,117.0,4.0,3.0,1.0,33.0,None,None,2.0,None,0.0,911.0,None,None,2,None,2.0,None,Non flood zone,Fitted out,3590,Diepenbeek,Limburg
 10006216,house,villa,298000.0,93.0,4.0,3.0,1.0,29.0,2,None,1.0,1,20.0,0.0,None,None,0,None,5.0,Gas,None,"Living area (residential, urban or rural)",1470,Genappe,Walloon Brabant
 10332391,house,farmhouse,285000.0,255.0,3.0,4.0,1.0,42.0,2,None,2.0,1,0.0,0.0,None,None,2,None,3.0,Fuel oil,None,Countryside,1370,Zétrud-Lumay,Walloon Brabant
-10160614,house,house,297500.0,124.0,4.0,3.0,1.0,31.0,1,None,1.0,None,0.0,718.0,None,None,2,0,2.0,Electric,None,"Living area (residential, urban or rural)",7830,Thoricourt,Hainaut
+10160614,house,house,297500.0,124.0,4.0,3.0,1.0,31.0,1,None,1.0,None,0.0,718.0,None,None,2,0,2.0,Electric,None,"Living area (residential, urban or rural)",7830,Silly,Hainaut
 10404500,other-property,bungalow,300000.0,67.0,3.0,1.0,1.0,None,2,None,1.0,None,22.0,215.0,0,0,2,None,3.0,Gas,Non flood zone,"Living area (residential, urban or rural)",1410,Waterloo,Walloon Brabant
 10521064,house,house,299000.0,148.0,4.0,3.0,1.0,16.0,None,None,None,None,0.0,0.0,0,0,2,0,3.0,Fuel oil,Non flood zone,None,4540,Ombret,Liège
 10530131,house,house,249000.0,234.0,None,4.0,1.0,None,0,None,1.0,1,35.0,420.0,None,None,1,None,2.0,Fuel oil,None,Countryside,4530,Warnant-Dreye,Liège
@@ -3754,7 +3754,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10375636,apartment,apartment-block,739000.0,250.0,3.0,4.0,2.0,33.0,2,2.0,3.0,None,50.0,0.0,None,None,0,None,1.0,Gas,Non flood zone,None,1700,Sint-Ulriks-Kapelle,Flemish Brabant
 10430578,house,house,825000.0,190.0,None,4.0,1.0,35.0,None,1.0,2.0,1,30.0,200.0,None,None,None,None,1.0,Gas,None,None,1150,Woluwe-Saint-Pierre,Brussels Capital Region
 10530868,house,villa,850000.0,265.0,None,4.0,1.0,45.0,3,None,3.0,None,0.0,0.0,0,0,3,0,6.0,Fuel oil,Non flood zone,"Living area (residential, urban or rural)",9880,Poeke,East Flanders
-10318928,house,house,900000.0,332.0,4.0,6.0,2.0,25.0,2,2.0,3.0,None,20.0,9177.0,0,0,1,0,1.0,Fuel oil,Non flood zone,Countryside,1380,Plancenoit,Walloon Brabant
+10318928,house,house,900000.0,332.0,4.0,6.0,2.0,25.0,2,2.0,3.0,None,20.0,9177.0,0,0,1,0,1.0,Fuel oil,Non flood zone,Countryside,1380,Lasne,Walloon Brabant
 10501874,house,house,870000.0,423.0,4.0,3.0,2.0,55.0,1,None,7.0,None,0.0,0.0,0,1,3,0,6.0,None,Non flood zone,None,3740,Waltwilder,Limburg
 10532247,house,villa,979000.0,352.0,4.0,4.0,2.0,None,1,None,2.0,None,40.0,10.0,None,1,3,None,6.0,None,Non flood zone,None,1730,Mollem,Flemish Brabant
 10493920,other-property,exceptional-property,1150000.0,1005.0,4.0,25.0,25.0,None,0,25.0,27.0,1,0.0,4694.0,0,0,2,0,5.0,Fuel oil,None,Countryside,4550,Yernée-Fraineux,Liège
@@ -4028,7 +4028,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10318899,apartment,apartment,1140000.0,103.0,2.0,2.0,1.0,None,3,2.0,1.0,1,0.0,0.0,1,0,3,0,6.0,Gas,None,Urban,8300,Knokke,West Flanders
 10357985,apartment,apartment,1000000.0,106.0,None,2.0,None,None,2,None,1.0,None,0.0,0.0,None,None,2,0,5.0,Gas,Non flood zone,None,8020,Waardamme,West Flanders
 10475441,apartment,apartment,795000.0,336.0,None,4.0,None,45.0,1,None,1.0,1,0.0,0.0,1,0,2,0,4.0,Fuel oil,Non flood zone,None,1030,Schaerbeek,Brussels Capital Region
-10552346,house,house,550000.0,160.0,4.0,2.0,1.0,73.0,1,None,1.0,1,25.0,850.0,None,None,0,None,3.0,Fuel oil,Non flood zone,None,1380,Plancenoit,Walloon Brabant
+10552346,house,house,550000.0,160.0,4.0,2.0,1.0,73.0,1,None,1.0,1,25.0,850.0,None,None,0,None,3.0,Fuel oil,Non flood zone,None,1380,Lasne,Walloon Brabant
 10517871,apartment,apartment,735000.0,180.0,2.0,3.0,2.0,None,3,1.0,3.0,1,5.0,46.0,0,0,2,0,5.0,None,Non flood zone,Urban,1050,Ixelles,Brussels Capital Region
 10561554,apartment,apartment,225000.0,84.0,4.0,2.0,1.0,31.0,1,None,1.0,1,3.0,0.0,1,None,2,None,1.0,Gas,None,None,1070,Anderlecht,Brussels Capital Region
 10209440,apartment,apartment,950000.0,180.0,4.0,2.0,2.0,38.0,3,2.0,2.0,None,48.0,0.0,1,0,3,0,7.0,None,None,Urban,2000,Antwerpen,Antwerp
@@ -4321,7 +4321,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10543655,apartment,apartment,340000.0,112.0,2.0,2.0,1.0,None,1,None,2.0,None,5.0,0.0,None,None,None,None,7.0,None,None,None,9600,Renaix,East Flanders
 10559902,house,house,150000.0,180.0,2.0,3.0,1.0,20.0,2,1.0,2.0,1,0.0,240.0,None,None,1,None,2.0,Gas,None,None,6061,Gilly,Hainaut
 10566179,apartment,duplex,799500.0,135.0,3.0,2.0,2.0,47.0,3,1.0,3.0,1,27.0,199.0,1,0,3,0,7.25,Gas,Non flood zone,None,1410,Waterloo,Walloon Brabant
-10559639,house,house,475000.0,225.0,3.0,4.0,1.0,40.0,None,2.0,3.0,1,46.0,0.0,None,None,1,None,1.0,None,None,None,1380,Plancenoit,Walloon Brabant
+10559639,house,house,475000.0,225.0,3.0,4.0,1.0,40.0,None,2.0,3.0,1,46.0,0.0,None,None,1,None,1.0,None,None,None,1380,Lasne,Walloon Brabant
 10560038,other-property,mixed-use-building,1095000.0,374.0,4.0,5.0,2.0,60.0,None,None,3.0,1,80.0,0.0,None,None,3,None,5.0,Gas,Non flood zone,None,3210,Lubbeek,Flemish Brabant
 10560036,house,house,425000.0,131.0,2.0,2.0,1.0,21.0,None,None,2.0,1,0.0,0.0,None,None,None,None,4.0,Gas,Non flood zone,None,3000,Leuven,Flemish Brabant
 10199042,house,house,155000.0,129.0,3.0,2.0,1.0,35.0,1,None,None,None,0.0,0.0,None,None,1,None,2.0,Pellet,Non flood zone,None,2870,Ruisbroek,Antwerp
@@ -4349,7 +4349,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10522751,house,house,645000.0,325.0,2.0,3.0,1.0,77.0,1,1.0,2.0,None,32.0,0.0,None,None,2,None,6.0,None,Non flood zone,None,1880,Ramsdonk,Flemish Brabant
 10563346,other-property,exceptional-property,499000.0,298.0,3.0,8.0,2.0,40.0,3,None,3.0,None,0.0,1970.0,0,0,0,0,2.0,Fuel oil,Non flood zone,Countryside,4650,Julémont,Liège
 10563396,house,villa,663000.0,258.0,4.0,4.0,2.0,None,1,None,2.0,None,0.0,0.0,None,None,None,None,5.0,None,Non flood zone,None,9850,Vosselare,East Flanders
-10563853,house,villa,799000.0,236.0,4.0,3.0,2.0,None,0,1.0,3.0,None,50.0,2818.0,0,1,0,0,1.0,Electric,Non flood zone,None,1380,Plancenoit,Walloon Brabant
+10563853,house,villa,799000.0,236.0,4.0,3.0,2.0,None,0,1.0,3.0,None,50.0,2818.0,0,1,0,0,1.0,Electric,Non flood zone,None,1380,Lasne,Walloon Brabant
 10546853,apartment,apartment,230000.0,75.0,4.0,2.0,1.0,None,None,None,None,None,13.0,0.0,1,0,None,0,2.0,Gas,Non flood zone,None,1000,Bruxelles,Brussels Capital Region
 10546855,apartment,duplex,550000.0,165.0,2.0,3.0,1.0,None,None,None,None,None,10.0,0.0,0,0,None,0,2.0,Gas,Non flood zone,None,1060,Saint-Gilles,Brussels Capital Region
 10566864,house,house,199500.0,240.0,None,3.0,1.0,30.0,1,None,1.0,None,50.0,100.0,0,0,1,None,2.0,Gas,Non flood zone,Urban,8870,Kachtem,West Flanders
@@ -4741,13 +4741,13 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10526070,house,house,1150000.0,204.0,2.0,5.0,3.0,50.0,3,1.0,4.0,None,40.0,125.0,0,0,3,0,5.0,Gas,None,None,1200,Woluwe-Saint-Lambert,Brussels Capital Region
 10526553,house,house,1195000.0,315.0,3.0,5.0,1.0,45.0,3,1.0,4.0,1,40.0,380.0,0,0,0,0,3.0,Gas,Non flood zone,None,1150,Woluwe-Saint-Pierre,Brussels Capital Region
 9906270,apartment,apartment-block,1230000.0,640.0,3.0,16.0,8.0,30.0,2,None,8.0,1,20.0,0.0,None,None,2,None,5.0,Electric,None,None,4020,Wandre,Liège
-10529334,house,villa,1200000.0,330.0,4.0,5.0,3.0,40.0,3,3.0,3.0,1,70.0,2700.0,0,1,2,0,4.0,Fuel oil,Non flood zone,None,1380,Plancenoit,Walloon Brabant
+10529334,house,villa,1200000.0,330.0,4.0,5.0,3.0,40.0,3,3.0,3.0,1,70.0,2700.0,0,1,2,0,4.0,Fuel oil,Non flood zone,None,1380,Lasne,Walloon Brabant
 10336655,house,mansion,1250000.0,430.0,2.0,7.0,2.0,35.0,1,None,4.0,1,21.0,100.0,0,0,1,0,2.0,Fuel oil,Non flood zone,None,1200,Woluwe-Saint-Lambert,Brussels Capital Region
 10494694,other-property,exceptional-property,1250000.0,354.0,2.0,6.0,3.0,18.0,3,1.0,4.0,1,171.0,297.0,0,0,3,0,3.0,Fuel oil,Non flood zone,None,1060,Saint-Gilles,Brussels Capital Region
 10483914,house,house,1390000.0,366.0,3.0,6.0,4.0,70.0,1,4.0,5.0,1,30.0,60.0,0,0,0,None,1.0,Gas,None,None,1200,Woluwe-Saint-Lambert,Brussels Capital Region
 10491318,house,house,1395000.0,288.0,4.0,4.0,2.0,50.0,3,None,3.0,1,0.0,0.0,0,0,2,None,4.0,Gas,None,None,1150,Woluwe-Saint-Pierre,Brussels Capital Region
 10382580,house,house,1450000.0,370.0,2.0,6.0,3.0,27.0,3,3.0,3.0,1,0.0,0.0,None,None,3,0,2.0,Gas,None,None,1150,Woluwe-Saint-Pierre,Brussels Capital Region
-10514218,other-property,exceptional-property,1395000.0,389.0,4.0,5.0,3.0,44.0,3,1.0,5.0,1,115.0,2945.0,0,1,3,None,5.0,Fuel oil,Non flood zone,None,1380,Plancenoit,Walloon Brabant
+10514218,other-property,exceptional-property,1395000.0,389.0,4.0,5.0,3.0,44.0,3,1.0,5.0,1,115.0,2945.0,0,1,3,None,5.0,Fuel oil,Non flood zone,None,1380,Lasne,Walloon Brabant
 10531297,other-property,exceptional-property,1450000.0,370.0,2.0,6.0,2.0,27.0,3,1.0,3.0,1,0.0,150.0,0,0,3,None,2.0,Gas,None,None,1150,Woluwe-Saint-Pierre,Brussels Capital Region
 10514219,other-property,exceptional-property,1395000.0,389.0,4.0,5.0,3.0,44.0,3,1.0,5.0,1,115.0,2945.0,0,1,3,None,5.0,Fuel oil,Non flood zone,None,1470,Genappe,Walloon Brabant
 10519572,house,villa,1495000.0,345.0,4.0,5.0,3.0,None,3,3.0,4.0,1,0.0,0.0,0,0,3,0,5.0,Fuel oil,None,Isolated,1950,Kraainem,Flemish Brabant
@@ -4794,7 +4794,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10553495,house,house,525000.0,230.0,2.0,3.0,1.0,50.0,1,None,2.0,1,4.0,60.0,None,None,3,None,3.0,Gas,None,"Living area (residential, urban or rural)",1030,Schaerbeek,Brussels Capital Region
 10553911,house,house,545000.0,300.0,2.0,5.0,3.0,None,2,None,3.0,None,0.0,0.0,None,None,None,None,1.0,Electric,None,None,8500,Kortrijk,West Flanders
 10553909,other-property,mixed-use-building,545000.0,300.0,2.0,5.0,3.0,None,2,None,3.0,None,0.0,0.0,None,None,None,None,1.0,Electric,None,None,8500,Kortrijk,West Flanders
-10552683,house,country-cottage,695000.0,180.0,4.0,3.0,1.0,20.0,3,1.0,2.0,None,80.0,0.0,0,1,3,0,4.0,Fuel oil,None,None,1380,Plancenoit,Walloon Brabant
+10552683,house,country-cottage,695000.0,180.0,4.0,3.0,1.0,20.0,3,1.0,2.0,None,80.0,0.0,0,1,3,0,4.0,Fuel oil,None,None,1380,Lasne,Walloon Brabant
 10506752,apartment,apartment,699000.0,150.0,4.0,3.0,2.0,53.0,3,None,2.0,1,31.0,0.0,1,0,3,0,6.0,Gas,Non flood zone,None,1180,Uccle,Brussels Capital Region
 10421614,house,villa,1950000.0,410.0,4.0,5.0,2.0,None,None,None,2.0,1,0.0,0.0,0,0,2,0,4.0,Fuel oil,None,None,1410,Waterloo,Walloon Brabant
 10557113,apartment,apartment,55000.0,62.0,4.0,1.0,None,23.0,0,None,None,1,0.0,0.0,None,None,1,None,1.0,None,None,None,6200,Châtelineau,Hainaut
@@ -4823,7 +4823,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 9557439,other-property,exceptional-property,1950000.0,1165.0,4.0,6.0,3.0,47.0,3,1.0,7.0,1,200.0,3788.0,0,0,3,0,1.0,Gas,Non flood zone,None,1410,Waterloo,Walloon Brabant
 9863202,other-property,exceptional-property,1950000.0,1165.0,4.0,6.0,3.0,47.0,3,1.0,7.0,1,200.0,3788.0,0,0,3,0,1.0,Gas,Non flood zone,None,1470,Genappe,Walloon Brabant
 10453583,house,villa,1950000.0,1190.0,4.0,6.0,5.0,108.0,3,None,8.0,1,28.0,1000.0,1,None,2,None,5.0,Gas,Non flood zone,None,1090,Jette,Brussels Capital Region
-10301222,house,villa,1975000.0,824.0,4.0,6.0,5.0,None,1,None,4.0,1,0.0,0.0,0,0,1,0,3.0,Gas,None,None,1380,Plancenoit,Walloon Brabant
+10301222,house,villa,1975000.0,824.0,4.0,6.0,5.0,None,1,None,4.0,1,0.0,0.0,0,0,1,0,3.0,Gas,None,None,1380,Lasne,Walloon Brabant
 10452770,house,villa,1975000.0,263.0,4.0,5.0,4.0,None,1,None,4.0,None,0.0,0.0,0,0,2,None,5.0,Gas,Non flood zone,None,8300,Knokke,West Flanders
 10343413,other-property,exceptional-property,2350000.0,378.0,2.0,4.0,4.0,None,3,4.0,5.0,1,40.0,0.0,0,0,0,None,6.0,Gas,Non flood zone,None,2000,Antwerpen,Antwerp
 10433048,apartment,apartment-block,1990000.0,780.0,2.0,17.0,8.0,37.0,2,8.0,10.0,1,0.0,90.0,None,None,1,0,1.0,Fuel oil,Possible flood zone,None,1040,Etterbeek,Brussels Capital Region
@@ -5165,7 +5165,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10410299,apartment,apartment,790000.0,200.0,2.0,2.0,2.0,None,3,None,2.0,1,0.0,0.0,1,0,3,None,4.0,Gas,None,None,1050,Ixelles,Brussels Capital Region
 10505156,apartment,penthouse,750000.0,174.0,None,3.0,None,62.0,3,1.0,1.0,None,110.0,0.0,None,None,3,0,2.0,Gas,None,None,4000,Rocourt,Liège
 10506307,apartment,apartment,795000.0,235.0,2.0,4.0,2.0,86.0,1,1.0,3.0,1,0.0,0.0,1,0,2,0,4.0,Fuel oil,Non flood zone,None,1150,Woluwe-Saint-Pierre,Brussels Capital Region
-9910198,apartment,penthouse,795000.0,209.0,4.0,3.0,2.0,70.0,1,None,3.0,1,0.0,0.0,1,0,2,0,4.0,Gas,Non flood zone,None,1380,Plancenoit,Walloon Brabant
+9910198,apartment,penthouse,795000.0,209.0,4.0,3.0,2.0,70.0,1,None,3.0,1,0.0,0.0,1,0,2,0,4.0,Gas,Non flood zone,None,1380,Lasne,Walloon Brabant
 10506405,apartment,apartment,795000.0,300.0,None,4.0,1.0,86.0,3,3.0,3.0,None,0.0,0.0,1,0,2,None,5.0,Fuel oil,None,None,1150,Woluwe-Saint-Pierre,Brussels Capital Region
 10513531,apartment,apartment,795000.0,170.0,None,3.0,1.0,None,3,None,2.0,None,0.0,0.0,None,None,None,None,6.0,Gas,None,Urban,8400,Zandvoorde,West Flanders
 10412544,apartment,apartment,799500.0,233.0,2.0,3.0,1.0,47.0,2,1.0,2.0,None,42.0,69.0,1,0,3,0,7.0,Gas,Non flood zone,Isolated,1200,Woluwe-Saint-Lambert,Brussels Capital Region
@@ -5865,7 +5865,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10236988,house,house,600000.0,94.0,2.0,2.0,2.0,30.0,2,2.0,1.0,1,0.0,30.0,None,None,3,0,2.0,Gas,Non flood zone,None,1170,Watermael-Boitsfort,Brussels Capital Region
 10299488,house,house,599000.0,121.0,2.0,3.0,1.0,None,3,None,2.0,None,0.0,0.0,None,None,2,None,7.0,Gas,Non flood zone,Urban,8300,Knokke,West Flanders
 10144118,house,house,600000.0,162.0,2.0,3.0,1.0,33.0,0,1.0,2.0,None,18.0,60.0,0,0,0,0,1.0,None,Non flood zone,"Living area (residential, urban or rural)",1150,Woluwe-Saint-Pierre,Brussels Capital Region
-10244107,house,house,599000.0,480.0,3.0,4.0,4.0,55.0,1,1.0,5.0,None,0.0,649.0,None,None,3,0,2.0,Fuel oil,None,None,1380,Plancenoit,Walloon Brabant
+10244107,house,house,599000.0,480.0,3.0,4.0,4.0,55.0,1,1.0,5.0,None,0.0,649.0,None,None,3,0,2.0,Fuel oil,None,None,1380,Lasne,Walloon Brabant
 10473663,house,house,600000.0,200.0,4.0,3.0,None,50.0,1,1.0,2.0,None,0.0,0.0,None,None,2,None,5.0,Gas,None,None,1300,Wavre,Walloon Brabant
 10400887,house,house,620000.0,160.0,2.0,4.0,1.0,40.0,0,1.0,2.0,1,7.0,45.0,None,None,1,0,2.0,Gas,None,None,1150,Woluwe-Saint-Pierre,Brussels Capital Region
 10515296,house,villa,620000.0,153.0,4.0,4.0,1.0,38.0,3,1.0,2.0,1,20.0,750.0,0,0,2,None,4.0,Gas,Non flood zone,None,1410,Waterloo,Walloon Brabant
@@ -5932,18 +5932,18 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10343075,other-property,exceptional-property,1990000.0,610.0,2.0,6.0,4.0,75.0,3,1.0,4.0,1,10.0,0.0,1,0,3,0,1.0,Gas,None,None,1040,Etterbeek,Brussels Capital Region
 10125893,house,mansion,1960000.0,509.0,2.0,6.0,5.0,50.0,3,5.0,8.0,1,50.0,200.0,1,0,3,0,5.0,Gas,Non flood zone,None,1050,Ixelles,Brussels Capital Region
 10459285,other-property,exceptional-property,2150000.0,332.0,3.0,5.0,3.0,67.0,1,1.0,6.0,1,0.0,0.0,0,0,2,0,2.0,Gas,None,None,1150,Woluwe-Saint-Pierre,Brussels Capital Region
-10433475,house,house,2175000.0,650.0,4.0,5.0,3.0,None,3,3.0,5.0,1,0.0,14000.0,0,1,3,0,5.0,Fuel oil,Non flood zone,None,1380,Plancenoit,Walloon Brabant
+10433475,house,house,2175000.0,650.0,4.0,5.0,3.0,None,3,3.0,5.0,1,0.0,14000.0,0,1,3,0,5.0,Fuel oil,Non flood zone,None,1380,Lasne,Walloon Brabant
 10206782,house,mansion,2200000.0,485.0,2.0,5.0,4.0,24.0,1,None,4.0,1,0.0,0.0,0,0,3,0,5.0,Gas,Possible flood zone,None,1050,Ixelles,Brussels Capital Region
 10494756,house,villa,2495000.0,319.0,4.0,5.0,3.0,None,3,3.0,4.0,None,0.0,793.0,0,0,3,0,6.0,Gas,Non flood zone,None,8300,Knokke,West Flanders
 10487435,house,house,2450000.0,540.0,2.0,7.0,2.0,80.0,2,1.0,5.0,1,20.0,100.0,0,0,1,0,3.0,Gas,Non flood zone,None,1050,Ixelles,Brussels Capital Region
-10358686,other-property,exceptional-property,2700000.0,887.0,4.0,7.0,4.0,56.0,1,None,None,1,300.0,0.0,None,1,3,0,2.0,Fuel oil,None,"Living area (residential, urban or rural)",7830,Thoricourt,Hainaut
+10358686,other-property,exceptional-property,2700000.0,887.0,4.0,7.0,4.0,56.0,1,None,None,1,300.0,0.0,None,1,3,0,2.0,Fuel oil,None,"Living area (residential, urban or rural)",7830,Silly,Hainaut
 10478430,house,villa,2750000.0,650.0,4.0,6.0,4.0,48.0,3,4.0,5.0,1,0.0,0.0,0,1,3,0,6.0,Gas,None,None,3080,Vossem,Flemish Brabant
 10489435,other-property,exceptional-property,2950000.0,758.0,2.0,5.0,3.0,41.0,1,None,None,1,0.0,390.0,0,0,2,0,2.0,Gas,Property partially or completely located in a circumscribed flood zone,None,1050,Ixelles,Brussels Capital Region
 10480060,house,villa,2820000.0,400.0,4.0,5.0,2.0,45.0,None,None,3.0,None,0.0,0.0,0,1,3,0,5.0,Fuel oil,None,None,1420,Braine-L'alleud,Walloon Brabant
 10494305,house,mansion,2950000.0,758.0,2.0,5.0,4.0,40.0,3,None,None,1,0.0,0.0,0,0,2,0,2.0,Gas,None,None,1050,Ixelles,Brussels Capital Region
 10417928,house,villa,2950000.0,580.0,4.0,7.0,5.0,52.0,3,5.0,6.0,1,0.0,0.0,None,1,3,None,3.0,Fuel oil,None,None,1150,Woluwe-Saint-Pierre,Brussels Capital Region
 10474743,house,villa,2950000.0,300.0,4.0,4.0,3.0,None,3,4.0,6.0,1,150.0,1750.0,0,0,3,0,1.0,Gas,None,None,1180,Uccle,Brussels Capital Region
-9902734,house,house,2950000.0,780.0,4.0,7.0,6.0,75.0,3,3.0,6.0,1,210.0,4000.0,0,1,3,0,5.0,Fuel oil,None,None,1380,Plancenoit,Walloon Brabant
+9902734,house,house,2950000.0,780.0,4.0,7.0,6.0,75.0,3,3.0,6.0,1,210.0,4000.0,0,1,3,0,5.0,Fuel oil,None,None,1380,Lasne,Walloon Brabant
 10281169,other-property,exceptional-property,3150000.0,600.0,4.0,7.0,5.0,65.0,3,1.0,None,1,2.0,0.0,0,1,3,0,4.0,Gas,None,None,1150,Woluwe-Saint-Pierre,Brussels Capital Region
 10419178,house,house,3200000.0,1000.0,4.0,6.0,6.0,150.0,3,None,6.0,None,150.0,0.0,1,1,2,0,2.0,Gas,None,"Living area (residential, urban or rural)",1410,Waterloo,Walloon Brabant
 10492055,house,villa,3100000.0,560.0,4.0,6.0,4.0,None,3,None,None,1,0.0,0.0,0,0,1,0,3.0,Fuel oil,None,None,1150,Woluwe-Saint-Pierre,Brussels Capital Region
@@ -5967,7 +5967,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10488035,house,house,825000.0,340.0,4.0,5.0,3.0,31.0,3,None,3.0,1,48.0,500.0,None,None,2,0,5.0,Electric,None,None,3040,Sint-Agatha-Rode,Flemish Brabant
 10528082,house,mansion,830000.0,400.0,2.0,6.0,2.0,40.0,3,1.0,3.0,1,1.0,150.0,None,None,3,None,2.0,Fuel oil,Non flood zone,None,1070,Anderlecht,Brussels Capital Region
 10498584,house,villa,835000.0,275.0,4.0,4.0,2.0,33.0,1,1.0,2.0,1,14.0,266.0,0,0,2,0,1.0,Gas,Non flood zone,None,1180,Uccle,Brussels Capital Region
-10515771,house,villa,835000.0,253.0,4.0,6.0,2.0,46.0,1,1.0,2.0,1,0.0,0.0,None,None,2,None,4.0,Fuel oil,None,None,1380,Plancenoit,Walloon Brabant
+10515771,house,villa,835000.0,253.0,4.0,6.0,2.0,46.0,1,1.0,2.0,1,0.0,0.0,None,None,2,None,4.0,Fuel oil,None,None,1380,Lasne,Walloon Brabant
 10320067,house,mansion,847500.0,216.0,2.0,5.0,2.0,40.0,3,1.0,2.0,1,20.0,40.0,0,0,2,0,2.0,Gas,Possible flood zone,None,1040,Etterbeek,Brussels Capital Region
 10245293,house,villa,865000.0,190.0,4.0,4.0,2.0,40.0,3,1.0,2.0,1,20.0,450.0,0,1,3,0,4.0,Gas,Non flood zone,None,1970,Wezembeek-Oppem,Flemish Brabant
 10481548,house,villa,849000.0,330.0,4.0,6.0,3.0,53.0,3,None,None,None,0.0,0.0,None,None,2,0,6.0,Fuel oil,Non flood zone,Urban,1933,Zaventem,Flemish Brabant
@@ -6326,7 +6326,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10007348,apartment,penthouse,730000.0,None,2.0,3.0,3.0,None,3,2.0,3.0,1,0.0,0.0,1,1,3,0,3.0,Gas,None,Isolated,1180,Uccle,Brussels Capital Region
 10524054,apartment,penthouse,795000.0,175.0,3.0,3.0,2.0,50.0,3,1.0,3.0,1,40.0,0.0,1,0,2,0,4.0,Gas,None,None,1180,Uccle,Brussels Capital Region
 10180619,apartment,apartment,795000.0,120.0,2.0,3.0,2.0,None,3,2.0,2.0,1,22.0,0.0,1,0,3,0,6.0,Gas,None,None,1150,Woluwe-Saint-Pierre,Brussels Capital Region
-10486464,apartment,penthouse,795000.0,209.0,3.0,3.0,2.0,60.0,3,1.0,2.0,1,10.0,0.0,1,0,3,0,4.0,Fuel oil,Non flood zone,None,1380,Plancenoit,Walloon Brabant
+10486464,apartment,penthouse,795000.0,209.0,3.0,3.0,2.0,60.0,3,1.0,2.0,1,10.0,0.0,1,0,3,0,4.0,Fuel oil,Non flood zone,None,1380,Lasne,Walloon Brabant
 10281467,apartment,apartment,800000.0,202.0,2.0,3.0,2.0,67.0,3,None,2.0,1,5.0,0.0,1,0,3,0,5.0,Gas,Non flood zone,None,1050,Ixelles,Brussels Capital Region
 10479443,apartment,apartment,850000.0,176.0,2.0,3.0,2.0,35.0,3,1.0,3.0,1,12.0,0.0,1,0,3,0,4.0,Gas,None,None,1050,Ixelles,Brussels Capital Region
 10267583,apartment,apartment,849000.0,160.0,None,3.0,2.0,34.0,3,2.0,2.0,None,20.0,0.0,1,0,3,0,7.0,Gas,Non flood zone,None,2000,Antwerpen,Antwerp
@@ -6630,7 +6630,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10551917,house,house,155000.0,143.0,2.0,3.0,1.0,38.0,None,None,2.0,None,0.0,0.0,0,0,1,0,3.0,Gas,None,Urban,9620,Zottegem,East Flanders
 10551918,house,house,189000.0,152.0,2.0,3.0,1.0,33.0,None,None,1.0,None,0.0,0.0,0,0,1,0,4.0,Gas,Non flood zone,None,9600,Renaix,East Flanders
 10551919,house,villa,409900.0,210.0,3.0,2.0,1.0,30.0,None,None,2.0,1,0.0,0.0,0,1,3,0,5.0,Fuel oil,Non flood zone,None,9570,Sint-Maria-Lierde,East Flanders
-10552315,other-property,exceptional-property,3695000.0,478.0,4.0,4.0,3.0,70.0,3,3.0,4.0,1,120.0,0.0,0,1,3,0,5.0,Fuel oil,Non flood zone,None,1380,Plancenoit,Walloon Brabant
+10552315,other-property,exceptional-property,3695000.0,478.0,4.0,4.0,3.0,70.0,3,3.0,4.0,1,120.0,0.0,0,1,3,0,5.0,Fuel oil,Non flood zone,None,1380,Lasne,Walloon Brabant
 10551977,house,house,695000.0,280.0,3.0,5.0,2.0,None,None,None,3.0,None,0.0,0.0,0,1,3,None,6.0,Gas,Non flood zone,None,2870,Ruisbroek,Antwerp
 10567186,apartment,apartment,335000.0,70.0,None,1.0,None,29.0,None,1.0,1.0,None,0.0,110.0,None,None,None,None,1.0,Gas,None,None,1040,Etterbeek,Brussels Capital Region
 10555949,house,house,279000.0,162.0,3.0,3.0,1.0,33.0,1,None,2.0,None,0.0,0.0,None,None,None,None,7.0,None,None,None,4570,Vyle-Et-Tharoul,Liège
@@ -6921,10 +6921,10 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10489171,house,house,1195000.0,437.0,4.0,5.0,2.0,None,None,None,None,None,0.0,0.0,None,None,3,None,7.0,None,Non flood zone,None,2590,Gestel,Antwerp
 10356861,house,mansion,1250000.0,500.0,2.0,8.0,4.0,22.0,None,4.0,4.0,1,30.0,45.0,0,0,2,0,3.0,Gas,Non flood zone,None,1040,Etterbeek,Brussels Capital Region
 10431270,house,house,1275000.0,340.0,None,4.0,2.0,None,None,None,3.0,1,0.0,0.0,0,0,None,0,2.0,None,Non flood zone,None,1000,Bruxelles,Brussels Capital Region
-10461691,house,villa,1245000.0,300.0,4.0,5.0,4.0,None,3,4.0,3.0,None,50.0,2220.0,None,None,3,0,5.0,Fuel oil,Non flood zone,None,1380,Plancenoit,Walloon Brabant
+10461691,house,villa,1245000.0,300.0,4.0,5.0,4.0,None,3,4.0,3.0,None,50.0,2220.0,None,None,3,0,5.0,Fuel oil,Non flood zone,None,1380,Lasne,Walloon Brabant
 10278753,house,mansion,1275000.0,512.0,2.0,7.0,4.0,None,1,None,4.0,1,9.0,127.0,0,0,None,None,1.0,Gas,None,None,1210,Saint-Josse-Ten-Noode,Brussels Capital Region
 10521268,other-property,mixed-use-building,1295000.0,300.0,2.0,3.0,3.0,None,3,None,5.0,1,20.0,100.0,0,0,3,0,3.0,Gas,None,None,1050,Ixelles,Brussels Capital Region
-10086931,house,villa,1295000.0,520.0,4.0,5.0,3.0,135.0,3,None,None,1,50.0,0.0,None,None,None,None,4.0,Fuel oil,Non flood zone,None,7850,Petit-Enghien,Hainaut
+10086931,house,villa,1295000.0,520.0,4.0,5.0,3.0,135.0,3,None,None,1,50.0,0.0,None,None,None,None,4.0,Fuel oil,Non flood zone,None,7850,Enghien,Hainaut
 10191310,apartment,apartment-block,1250000.0,None,2.0,11.0,6.0,None,1,5.0,5.0,None,0.0,0.0,1,0,1,0,1.0,Gas,None,Urban,1070,Anderlecht,Brussels Capital Region
 10444661,other-property,exceptional-property,1325000.0,240.0,3.0,5.0,3.0,None,1,1.0,3.0,None,0.0,0.0,None,None,2,0,2.0,Fuel oil,None,None,1000,Bruxelles,Brussels Capital Region
 10403272,house,house,1295000.0,190.0,2.0,5.0,4.0,56.0,3,4.0,4.0,None,0.0,0.0,0,0,3,None,1.0,None,Non flood zone,"Living area (residential, urban or rural)",8300,Knokke,West Flanders
@@ -6934,14 +6934,14 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10515559,house,villa,1499000.0,650.0,4.0,5.0,4.0,None,None,None,None,None,0.0,0.0,0,1,1,0,3.0,Fuel oil,None,None,1325,Tourinnes-La-Grosse,Walloon Brabant
 10202832,other-property,exceptional-property,1500000.0,410.0,4.0,6.0,3.0,None,1,2.0,4.0,None,30.0,2000.0,0,1,0,0,3.0,Gas,Non flood zone,None,1970,Wezembeek-Oppem,Flemish Brabant
 10378769,house,mansion,1625000.0,370.0,2.0,4.0,1.0,30.0,3,1.0,3.0,1,0.0,0.0,0,1,3,0,1.0,Gas,None,None,1180,Uccle,Brussels Capital Region
-10491705,house,house,1595000.0,593.0,4.0,4.0,3.0,50.0,3,3.0,3.0,1,0.0,0.0,0,0,3,0,5.0,Fuel oil,Non flood zone,None,1380,Plancenoit,Walloon Brabant
+10491705,house,house,1595000.0,593.0,4.0,4.0,3.0,50.0,3,3.0,3.0,1,0.0,0.0,0,0,3,0,5.0,Fuel oil,Non flood zone,None,1380,Lasne,Walloon Brabant
 10483810,house,mansion,1650000.0,845.0,2.0,9.0,3.0,None,None,3.0,3.0,1,0.0,790.0,0,0,2,0,1.0,Fuel oil,None,None,1190,Forest,Brussels Capital Region
 10438225,other-property,exceptional-property,1790000.0,548.0,2.0,5.0,4.0,64.0,3,None,4.0,1,0.0,2370.0,0,0,2,0,2.0,Gas,Non flood zone,None,1950,Kraainem,Flemish Brabant
 10483809,house,mansion,1675000.0,524.0,4.0,8.0,5.0,70.0,1,5.0,5.0,1,0.0,300.0,1,0,2,0,2.0,Gas,None,None,1180,Uccle,Brussels Capital Region
 9722809,house,mansion,1690000.0,700.0,3.0,8.0,5.0,100.0,3,3.0,5.0,1,0.0,120.0,1,0,2,0,1.0,Gas,None,None,1180,Uccle,Brussels Capital Region
 10514154,house,villa,1695000.0,325.0,4.0,5.0,4.0,58.0,3,3.0,4.0,None,30.0,1290.0,0,0,2,0,5.0,Fuel oil,Non flood zone,None,1640,Rhode-Saint-Genèse,Flemish Brabant
 10140539,other-property,exceptional-property,1800000.0,203.0,4.0,4.0,1.0,None,0,1.0,2.0,None,25.0,2910.0,None,None,1,None,2.0,None,Non flood zone,Landscape,1700,Sint-Ulriks-Kapelle,Flemish Brabant
-10425248,house,house,1895000.0,810.0,4.0,6.0,2.0,46.0,None,None,None,None,55.0,0.0,0,1,3,0,6.0,Fuel oil,None,None,1380,Plancenoit,Walloon Brabant
+10425248,house,house,1895000.0,810.0,4.0,6.0,2.0,46.0,None,None,None,None,55.0,0.0,0,1,3,0,6.0,Fuel oil,None,None,1380,Lasne,Walloon Brabant
 10242885,house,villa,1980000.0,732.0,4.0,7.0,6.0,75.0,3,None,None,1,0.0,0.0,0,1,3,0,6.0,Fuel oil,None,None,1310,La Hulpe,Walloon Brabant
 10389613,house,house,2390000.0,400.0,4.0,6.0,1.0,56.0,3,4.0,5.0,None,150.0,2300.0,None,1,3,0,4.0,Gas,Non flood zone,None,1640,Rhode-Saint-Genèse,Flemish Brabant
 10397123,house,villa,2175000.0,255.0,4.0,4.0,2.0,None,3,1.0,3.0,None,0.0,586.0,0,0,3,0,6.0,Gas,Non flood zone,"Living area (residential, urban or rural)",8300,Knokke,West Flanders
@@ -6951,7 +6951,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 9900633,apartment,apartment-block,2800000.0,1000.0,4.0,10.0,6.0,60.0,3,None,8.0,1,0.0,1500.0,1,0,2,0,5.0,Gas,None,None,1150,Woluwe-Saint-Pierre,Brussels Capital Region
 10474732,house,villa,3450000.0,400.0,4.0,4.0,4.0,60.0,3,4.0,5.0,1,50.0,700.0,0,0,2,0,6.0,Gas,None,None,1180,Uccle,Brussels Capital Region
 9888119,house,villa,2800000.0,1000.0,4.0,10.0,6.0,60.0,3,None,8.0,1,0.0,1500.0,1,0,2,0,5.0,Gas,None,None,1150,Woluwe-Saint-Pierre,Brussels Capital Region
-9480365,house,villa,2950000.0,780.0,4.0,7.0,6.0,75.0,1,None,8.0,1,180.0,0.0,0,0,3,0,5.0,Fuel oil,None,None,1380,Plancenoit,Walloon Brabant
+9480365,house,villa,2950000.0,780.0,4.0,7.0,6.0,75.0,1,None,8.0,1,180.0,0.0,0,0,3,0,5.0,Fuel oil,None,None,1380,Lasne,Walloon Brabant
 9893997,house,house,3500000.0,700.0,4.0,5.0,5.0,None,3,None,5.0,1,60.0,1370.0,1,1,3,0,4.0,Gas,None,None,1180,Uccle,Brussels Capital Region
 10395245,house,house,4995000.0,386.0,4.0,5.0,3.0,None,1,3.0,4.0,None,0.0,0.0,None,None,3,0,6.0,Gas,Non flood zone,None,8300,Knokke,West Flanders
 10244276,house,villa,5100000.0,1200.0,4.0,10.0,10.0,88.0,1,None,10.0,None,100.0,5000.0,0,1,3,None,1.0,Fuel oil,None,None,1180,Uccle,Brussels Capital Region
@@ -7842,7 +7842,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10531963,apartment,penthouse,350000.0,120.0,4.0,2.0,1.0,25.0,3,1.0,1.0,None,80.0,0.0,None,None,3,0,7.0,Gas,None,"Living area (residential, urban or rural)",6120,Nalinnes,Hainaut
 9867577,apartment,apartment,324000.0,158.0,None,4.0,1.0,None,1,None,2.0,None,36.0,0.0,None,None,None,None,6.0,Gas,None,Isolated,4121,Rotheux-Rimière,Liège
 9955889,apartment,apartment,365000.0,137.0,None,3.0,1.0,None,3,1.0,2.0,None,17.0,0.0,1,0,None,0,7.0,Gas,Non flood zone,None,1070,Anderlecht,Brussels Capital Region
-9884408,apartment,apartment,375000.0,108.0,4.0,2.0,None,41.0,1,1.0,2.0,1,10.0,0.0,1,None,None,None,6.0,Gas,None,None,1380,Plancenoit,Walloon Brabant
+9884408,apartment,apartment,375000.0,108.0,4.0,2.0,None,41.0,1,1.0,2.0,1,10.0,0.0,1,None,None,None,6.0,Gas,None,None,1380,Lasne,Walloon Brabant
 10528603,apartment,apartment,385000.0,72.0,None,1.0,1.0,13.0,3,None,1.0,None,7.0,0.0,1,0,3,0,7.0,Gas,Non flood zone,None,2000,Antwerpen,Antwerp
 10503672,apartment,ground-floor,395000.0,76.0,None,1.0,1.0,33.0,3,None,1.0,1,11.0,11.0,1,0,3,0,6.0,None,Non flood zone,Isolated,1180,Uccle,Brussels Capital Region
 10502872,apartment,apartment,405000.0,139.0,4.0,3.0,1.0,43.0,3,None,2.0,None,22.0,36.0,1,0,None,0,7.0,None,Non flood zone,None,9810,Nazareth,East Flanders
@@ -8187,7 +8187,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10351213,house,villa,1245000.0,642.0,None,3.0,None,139.0,1,None,1.0,None,0.0,0.0,None,None,2,0,2.0,Fuel oil,Non flood zone,None,8470,Zevekote,West Flanders
 10518617,house,house,1695000.0,265.0,2.0,6.0,2.0,None,None,None,None,1,64.0,41.0,0,0,None,0,4.0,Gas,Non flood zone,None,1050,Ixelles,Brussels Capital Region
 9879792,house,villa,1850000.0,383.0,4.0,5.0,2.0,32.0,None,1.0,5.0,1,0.0,0.0,0,0,1,0,1.0,Gas,None,None,1180,Uccle,Brussels Capital Region
-10437552,house,villa,1895000.0,810.0,4.0,6.0,4.0,46.0,1,None,5.0,None,0.0,0.0,0,0,None,0,6.0,None,Non flood zone,None,1380,Plancenoit,Walloon Brabant
+10437552,house,villa,1895000.0,810.0,4.0,6.0,4.0,46.0,1,None,5.0,None,0.0,0.0,0,0,None,0,6.0,None,Non flood zone,None,1380,Lasne,Walloon Brabant
 10492241,house,villa,1790000.0,562.0,None,4.0,None,93.0,3,None,4.0,1,112.0,6000.0,None,None,3,0,7.0,Gas,Non flood zone,None,8020,Waardamme,West Flanders
 10525978,other-property,exceptional-property,1980000.0,732.0,4.0,6.0,6.0,75.0,3,6.0,None,1,0.0,0.0,0,1,3,0,6.0,Fuel oil,None,None,1310,La Hulpe,Walloon Brabant
 10420633,apartment,apartment-block,2185000.0,699.0,2.0,None,None,None,None,None,None,1,0.0,0.0,None,None,3,0,4.0,Gas,None,None,1200,Woluwe-Saint-Lambert,Brussels Capital Region
@@ -8507,7 +8507,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10288634,apartment,apartment,870000.0,168.0,2.0,3.0,2.0,67.0,3,None,2.0,1,26.0,0.0,1,0,3,0,5.0,Gas,Non flood zone,None,1050,Ixelles,Brussels Capital Region
 10194130,apartment,triplex,815000.0,158.0,4.0,3.0,2.0,40.0,3,None,2.0,1,30.0,0.0,1,None,3,0,1.0,Gas,Non flood zone,Urban,1310,La Hulpe,Walloon Brabant
 10421876,apartment,apartment,850000.0,650.0,4.0,12.0,6.0,None,None,None,6.0,1,0.0,0.0,1,None,2,None,5.0,None,None,None,9860,Scheldewindeke,East Flanders
-10194136,apartment,triplex,815000.0,158.0,4.0,3.0,2.0,40.0,3,None,2.0,1,30.0,0.0,1,None,3,0,1.0,Gas,Non flood zone,Urban,1380,Plancenoit,Walloon Brabant
+10194136,apartment,triplex,815000.0,158.0,4.0,3.0,2.0,40.0,3,None,2.0,1,30.0,0.0,1,None,3,0,1.0,Gas,Non flood zone,Urban,1380,Lasne,Walloon Brabant
 10492317,apartment,apartment,795000.0,165.0,2.0,3.0,2.0,None,3,1.0,2.0,None,4.0,0.0,1,0,3,None,7.0,Gas,Non flood zone,Urban,8400,Zandvoorde,West Flanders
 10487920,apartment,apartment,935000.0,106.0,None,2.0,None,None,3,None,1.0,1,0.0,0.0,1,0,3,0,7.0,Gas,Non flood zone,None,8300,Knokke,West Flanders
 10101274,apartment,ground-floor,890000.0,300.0,None,3.0,2.0,170.0,1,None,3.0,1,75.0,0.0,1,0,3,None,2.0,Gas,None,None,1150,Woluwe-Saint-Pierre,Brussels Capital Region
@@ -9001,7 +9001,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10494522,house,house,440000.0,208.0,4.0,5.0,None,None,1,None,1.0,None,0.0,0.0,None,None,2,0,5.0,Gas,None,None,8380,Zeebrugge,West Flanders
 10297954,house,house,445000.0,160.0,2.0,4.0,1.0,17.0,1,1.0,3.0,None,15.0,0.0,None,None,3,0,6.0,Gas,None,"Living area (residential, urban or rural)",2860,Sint-Katelijne-Waver,Antwerp
 10201436,house,town-house,443000.0,181.0,2.0,2.0,1.0,None,3,2.0,2.0,None,30.0,123.0,0,0,3,None,6.0,Gas,Non flood zone,None,2500,Lier,Antwerp
-10507313,house,house,450000.0,220.0,3.0,4.0,1.0,35.0,3,None,2.0,1,25.0,115.0,None,None,3,None,5.0,Gas,Non flood zone,None,1380,Plancenoit,Walloon Brabant
+10507313,house,house,450000.0,220.0,3.0,4.0,1.0,35.0,3,None,2.0,1,25.0,115.0,None,None,3,None,5.0,Gas,Non flood zone,None,1380,Lasne,Walloon Brabant
 10445437,house,house,449000.0,246.0,3.0,4.0,1.0,45.0,None,None,2.0,1,0.0,0.0,0,None,2,0,4.0,Pellet,Non flood zone,None,1440,Wauthier-Braine,Walloon Brabant
 10309792,house,house,450000.0,175.0,2.0,4.0,1.0,28.0,1,1.0,2.0,1,14.0,180.0,None,None,0,0,1.0,Gas,None,None,1120,Neder-Over-Heembeek,Brussels Capital Region
 10445436,house,house,449000.0,246.0,3.0,4.0,1.0,45.0,None,None,2.0,1,0.0,0.0,0,None,2,0,4.0,Pellet,Non flood zone,None,1480,Tubize,Walloon Brabant
@@ -9154,7 +9154,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10468605,house,villa,940000.0,265.0,4.0,4.0,2.0,44.0,3,None,4.0,None,0.0,0.0,None,None,None,None,5.0,Fuel oil,Possible flood zone,None,1760,Strijtem,Flemish Brabant
 10482721,house,villa,950000.0,200.0,4.0,3.0,1.0,45.0,1,1.0,3.0,1,30.0,0.0,None,None,2,None,2.0,Gas,None,None,1150,Woluwe-Saint-Pierre,Brussels Capital Region
 10508585,house,house,975000.0,200.0,4.0,3.0,2.0,60.0,3,1.0,3.0,None,50.0,850.0,0,0,2,None,5.0,Gas,Non flood zone,None,1640,Rhode-Saint-Genèse,Flemish Brabant
-9397178,house,house,949000.0,264.0,4.0,5.0,2.0,28.0,3,1.0,2.0,None,80.0,1700.0,0,1,3,0,6.0,None,Non flood zone,None,1380,Plancenoit,Walloon Brabant
+9397178,house,house,949000.0,264.0,4.0,5.0,2.0,28.0,3,1.0,2.0,None,80.0,1700.0,0,1,3,0,6.0,None,Non flood zone,None,1380,Lasne,Walloon Brabant
 10468943,house,house,990000.0,590.0,2.0,8.0,3.0,None,1,None,5.0,1,0.0,0.0,1,None,2,None,6.0,Gas,None,None,1300,Wavre,Walloon Brabant
 10474730,house,house,1150000.0,350.0,4.0,6.0,3.0,75.0,3,2.0,3.0,1,100.0,0.0,0,1,2,0,4.0,None,None,None,1652,Beersel,Flemish Brabant
 10514253,house,house,1100000.0,307.0,2.0,6.0,1.0,16.0,2,1.0,2.0,1,0.0,225.0,0,0,3,None,5.0,Gas,Non flood zone,None,2018,2010,Antwerp
@@ -9185,7 +9185,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10507365,house,house,2550000.0,340.0,4.0,5.0,3.0,65.0,3,1.0,4.0,1,0.0,1221.0,0,1,3,0,2.0,Gas,None,None,1150,Woluwe-Saint-Pierre,Brussels Capital Region
 10211851,other-property,castle,2650000.0,1112.0,4.0,8.0,4.0,None,3,None,None,1,0.0,0.0,None,None,0,0,3.0,Fuel oil,None,None,3000,Leuven,Flemish Brabant
 10531701,house,villa,2700000.0,650.0,4.0,5.0,5.0,81.0,3,2.0,5.0,1,60.0,2500.0,0,0,3,None,7.25,None,Non flood zone,None,1341,Ottignies-Louvain-La-Neuve,Walloon Brabant
-10519631,house,villa,2700000.0,650.0,4.0,5.0,5.0,81.0,3,2.0,5.0,1,60.0,2500.0,0,0,3,None,7.25,None,Non flood zone,None,1380,Plancenoit,Walloon Brabant
+10519631,house,villa,2700000.0,650.0,4.0,5.0,5.0,81.0,3,2.0,5.0,1,60.0,2500.0,0,0,3,None,7.25,None,Non flood zone,None,1380,Lasne,Walloon Brabant
 10487982,house,villa,1950000.0,370.0,4.0,4.0,3.0,40.0,3,2.0,3.0,1,30.0,1500.0,0,0,3,0,3.0,None,None,None,1180,Uccle,Brussels Capital Region
 10517027,house,manor-house,2500000.0,303.0,4.0,4.0,2.0,None,1,None,None,None,0.0,0.0,None,None,2,0,6.0,None,Non flood zone,Urban,8200,Sint-Michiels,West Flanders
 9521970,apartment,apartment-block,3200000.0,1425.0,2.0,None,None,None,2,None,10.0,1,0.0,120.0,1,0,0,0,1.0,Fuel oil,None,None,1000,Bruxelles,Brussels Capital Region
@@ -9290,7 +9290,7 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10545816,house,house,459000.0,226.0,4.0,4.0,2.0,29.0,2,None,2.0,1,0.0,0.0,None,None,None,None,3.0,Gas,Non flood zone,None,2590,Gestel,Antwerp
 10546597,apartment,apartment-block,460000.0,206.0,4.0,5.0,1.0,None,1,None,None,1,0.0,0.0,None,None,3,None,3.0,Gas,None,Countryside,6567,Solre-Sur-Sambre,Hainaut
 10546595,house,house,460000.0,206.0,4.0,5.0,1.0,None,1,None,None,1,0.0,0.0,None,None,3,None,3.0,Gas,None,Countryside,6567,Solre-Sur-Sambre,Hainaut
-10297975,house,house,1195000.0,370.0,4.0,5.0,5.0,60.0,3,None,3.0,1,0.0,4400.0,0,1,3,0,5.0,Fuel oil,Non flood zone,None,1380,Plancenoit,Walloon Brabant
+10297975,house,house,1195000.0,370.0,4.0,5.0,5.0,60.0,3,None,3.0,1,0.0,4400.0,0,1,3,0,5.0,Fuel oil,Non flood zone,None,1380,Lasne,Walloon Brabant
 10544308,house,villa,625000.0,269.0,4.0,4.0,2.0,None,1,None,2.0,None,0.0,0.0,None,None,3,0,6.0,Gas,Non flood zone,None,3630,Vucht,Limburg
 10545605,house,house,689000.0,174.0,4.0,5.0,2.0,None,1,None,2.0,None,75.0,0.0,None,1,None,None,1.0,None,Non flood zone,None,2890,Sint-Amands,Antwerp
 10560236,apartment,apartment,345000.0,94.0,None,2.0,1.0,19.0,1,None,1.0,None,44.0,0.0,1,0,None,0,1.0,None,Non flood zone,Countryside,9800,Zeveren,East Flanders
